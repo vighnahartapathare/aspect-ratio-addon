@@ -1,4 +1,4 @@
-# Film Aspect Ratio – Blender Add-on
+# Aspect Ratio – Blender Add-on
 
 A Blender add-on to quickly apply common film, cinema, photography, desktop, and mobile aspect ratios.
 
@@ -49,3 +49,12 @@ A Blender add-on to quickly apply common film, cinema, photography, desktop, and
 | Apple | iPad 4:3 | 2048 × 1536 |
 | Apple | iPad Pro 11" | 2388 × 1668 |
 | Apple | iPad Pro 12.9" | 2732 × 2048 |
+
+## Screenshots
+
+![Output Properties – Film Aspect Ratios Panel](screenshots/film_aspect_ratio_output_panel.png)
+
+
+![Aspect Ratio Dropdown Options](screenshots/output_properties_aspect_ratio_dropdown.png)
+
+
