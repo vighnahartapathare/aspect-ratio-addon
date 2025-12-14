@@ -5,7 +5,7 @@ A Blender add-on to quickly apply common film, cinema, photography, desktop, and
 
 ## Installation
 
-1. Download `film_aspect_ratio.py`
+1. Download `film_aspect_dropdown.py`
 2. Open **Blender → Edit → Preferences → Add-ons**
 3. Click **Install**, select the `.py` file
 4. Enable **Film Aspect Ratio**
