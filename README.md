@@ -52,7 +52,7 @@ A Blender add-on to quickly apply common film, cinema, photography, desktop, and
 
 ## Screenshots
 
-![Output Properties – Film Aspect Ratios Panel](screenshots/film_aspect_ratio_output_panel.png)
+![Output Properties – Film Aspect Ratios Panel](screenshots/film_aspect_ratio_output_panel.jpg)
 
 
 ![Aspect Ratio Dropdown Options](screenshots/output_properties_aspect_ratio_dropdown.png)
