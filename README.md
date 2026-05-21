@@ -50,6 +50,18 @@ A Blender add-on to quickly apply common film, cinema, photography, desktop, and
 | Apple | iPad Pro 11" | 2388 × 1668 |
 | Apple | iPad Pro 12.9" | 2732 × 2048 |
 
+## Changes in v2.0
+
+| Feature | Description |
+|---|---|
+| Category Filters | Quickly filter presets by Film, TV/Broadcast, Social Media, Devices, or All. |
+| Aspect Ratio Presets | Includes film, broadcast, social media, photography, print, and device presets. |
+| Resolution Scale | Scale presets from 10–400% with live output preview before applying. |
+| Rotate 90° Button | Instantly swap width and height for portrait or landscape formats. |
+| Current Resolution Readout | Displays active render size, aspect ratio, and scale percentage. |
+| Auto Pixel Aspect | Apply button automatically sets pixel aspect ratio to 1:1. |
+| Live Preview & Apply | Preview final dimensions before applying changes to render settings. |
+
 ## Screenshots
 
 ![Output Properties – Film Aspect Ratios Panel](screenshots/film_aspect_ratio_output_panel.jpg)
